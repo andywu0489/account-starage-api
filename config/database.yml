@@ -1,4 +1,4 @@
-<% project_name = 'account-storage-api' %>
+<% project_name = 'purchase-tracker-api' %>
 
 default: &default
   adapter: postgresql
