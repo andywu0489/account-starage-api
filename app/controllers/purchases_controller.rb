@@ -3,7 +3,7 @@ class PurchasesController < ProtectedController
 
   # GET /purchases
   def index
-    @purchases = Purchase.all
+    @purchases = current_user.purchases.all
 
     render json: @purchases
   end
