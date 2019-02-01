@@ -8,7 +8,7 @@ curl "http://localhost:4741/purchases" \
       "item": "'"${ITEM}"'",
       "price": "'"${PRICE}"'",
       "date": "'"${DATE}"'",
-      "user_id":"'"${USER_ID}"'"
+      "location": "'"${LOCATION}"'"
     }
   }'
 
