@@ -3,6 +3,10 @@ API for purchase tracker client with user and purchase resources.
 The frontend repo of this application can be found at:
 https://github.com/andywu0489/purchase-tracker-client
 
+Deployed Sites:
+https://github.com/andywu0489/purchase-tracker-client
+https://mysterious-headland-52083.herokuapp.com/
+
 
 Planning and Development Process
 
