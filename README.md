@@ -1,7 +1,7 @@
 API for purchase tracker client with user and purchase resources.
 
-The frontend of this application can be found at:
-https://andywu0489.github.io/tic-tac-toe-client/
+The frontend repo of this application can be found at:
+https://github.com/andywu0489/purchase-tracker-client
 
 
 Planning and Development Process
